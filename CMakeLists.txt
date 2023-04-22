@@ -26,3 +26,4 @@ add_executable(12.9 12.9StaticInternalLinkage.c 12.9StaticInternalLinakge2.c 12.
 add_executable(12.12RandomNumberCreator 12.12RandomNumberCreator.c)
 add_executable(12.12 12.12CustomRandomNumberCreator.c 12.12CustomRandomNumberCreator.h 12.12RandomNumberCreator.c)
 add_executable(12.13DynamicMemoryAllocation 12.13DynamicMemoryAllocation.c)
+add_executable(12.15 12.15.c)

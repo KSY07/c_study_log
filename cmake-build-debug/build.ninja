@@ -752,6 +752,37 @@ build 12.13DynamicMemoryAllocation: C_EXECUTABLE_LINKER__12.2e13DynamicMemoryAll
   TARGET_FILE = 12.13DynamicMemoryAllocation
   TARGET_PDB = 12.13DynamicMemoryAllocation.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 12.15
+
+
+#############################################
+# Order-only phony target for 12.15
+
+build cmake_object_order_depends_target_12.15: phony || CMakeFiles/12.15.dir
+
+build CMakeFiles/12.15.dir/12.15.c.o: C_COMPILER__12.2e15_Debug /Users/kimseyoung/Desktop/Study/C/12.15.c || cmake_object_order_depends_target_12.15
+  DEP_FILE = CMakeFiles/12.15.dir/12.15.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/12.15.dir
+  OBJECT_FILE_DIR = CMakeFiles/12.15.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 12.15
+
+
+#############################################
+# Link the executable 12.15
+
+build 12.15: C_EXECUTABLE_LINKER__12.2e15_Debug CMakeFiles/12.15.dir/12.15.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/12.15.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 12.15
+  TARGET_PDB = 12.15.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -786,7 +817,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kimseyoung/Desktop/Study/C/cmake-build-debug
 
-build all: phony C main lecture Study StringArray 11.6 11.7 11.8 11.9 11.10 11.11 12.3 12.3LinkageSecond 12.3Duration 12.5 12.3Linkage 12.6 12.8 12.9 12.12RandomNumberCreator 12.12 12.13DynamicMemoryAllocation
+build all: phony C main lecture Study StringArray 11.6 11.7 11.8 11.9 11.10 11.11 12.3 12.3LinkageSecond 12.3Duration 12.5 12.3Linkage 12.6 12.8 12.9 12.12RandomNumberCreator 12.12 12.13DynamicMemoryAllocation 12.15
 
 # =============================================================================
 # Built-in targets

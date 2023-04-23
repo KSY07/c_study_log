@@ -1,1 +1,23 @@
-I love melon
+Before Thread
+Printing from Thread 1 6172651444
+Printing from Thread 2 6172078004
+Printing from Thread 3 6172078004
+Printing from Thread 4 6172651444
+Printing from Thread 5 6172078004
+Printing from Thread 6 6172651444
+Printing from Thread 7 6172078004
+Printing from Thread 8 6172651444
+Printing from Thread 9 6172078004
+Printing from Thread 10 6172651444
+Printing from Thread 11 6172078004
+Printing from Thread 12 6172651444
+Printing from Thread 13 6172078004
+Printing from Thread 14 6172651444
+Printing from Thread 15 6172078004
+Printing from Thread 16 6172651444
+Printing from Thread 17 6172078004
+Printing from Thread 18 6172651444
+Printing from Thread 19 6172078004
+Printing from Thread 20 6172651444
+After Thread
+Atomic 20

@@ -783,6 +783,130 @@ build 12.15: C_EXECUTABLE_LINKER__12.2e15_Debug CMakeFiles/12.15.dir/12.15.c.o
   TARGET_FILE = 12.15
   TARGET_PDB = 12.15.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 12.19MultiThreading
+
+
+#############################################
+# Order-only phony target for 12.19MultiThreading
+
+build cmake_object_order_depends_target_12.19MultiThreading: phony || CMakeFiles/12.19MultiThreading.dir
+
+build CMakeFiles/12.19MultiThreading.dir/12.19MultiThreading.c.o: C_COMPILER__12.2e19MultiThreading_Debug /Users/kimseyoung/Desktop/Study/C/12.19MultiThreading.c || cmake_object_order_depends_target_12.19MultiThreading
+  DEP_FILE = CMakeFiles/12.19MultiThreading.dir/12.19MultiThreading.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/12.19MultiThreading.dir
+  OBJECT_FILE_DIR = CMakeFiles/12.19MultiThreading.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 12.19MultiThreading
+
+
+#############################################
+# Link the executable 12.19MultiThreading
+
+build 12.19MultiThreading: C_EXECUTABLE_LINKER__12.2e19MultiThreading_Debug CMakeFiles/12.19MultiThreading.dir/12.19MultiThreading.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/12.19MultiThreading.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 12.19MultiThreading
+  TARGET_PDB = 12.19MultiThreading.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13.3TextEncodingCodepage
+
+
+#############################################
+# Order-only phony target for 13.3TextEncodingCodepage
+
+build cmake_object_order_depends_target_13.3TextEncodingCodepage: phony || CMakeFiles/13.3TextEncodingCodepage.dir
+
+build CMakeFiles/13.3TextEncodingCodepage.dir/13.3TextEncodingCodepage.c.o: C_COMPILER__13.2e3TextEncodingCodepage_Debug /Users/kimseyoung/Desktop/Study/C/13.3TextEncodingCodepage.c || cmake_object_order_depends_target_13.3TextEncodingCodepage
+  DEP_FILE = CMakeFiles/13.3TextEncodingCodepage.dir/13.3TextEncodingCodepage.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/13.3TextEncodingCodepage.dir
+  OBJECT_FILE_DIR = CMakeFiles/13.3TextEncodingCodepage.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13.3TextEncodingCodepage
+
+
+#############################################
+# Link the executable 13.3TextEncodingCodepage
+
+build 13.3TextEncodingCodepage: C_EXECUTABLE_LINKER__13.2e3TextEncodingCodepage_Debug CMakeFiles/13.3TextEncodingCodepage.dir/13.3TextEncodingCodepage.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/13.3TextEncodingCodepage.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13.3TextEncodingCodepage
+  TARGET_PDB = 13.3TextEncodingCodepage.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13.4FunctionsOfTextFileInOut
+
+
+#############################################
+# Order-only phony target for 13.4FunctionsOfTextFileInOut
+
+build cmake_object_order_depends_target_13.4FunctionsOfTextFileInOut: phony || CMakeFiles/13.4FunctionsOfTextFileInOut.dir
+
+build CMakeFiles/13.4FunctionsOfTextFileInOut.dir/13.4FunctionsOfTextFileInOut.c.o: C_COMPILER__13.2e4FunctionsOfTextFileInOut_Debug /Users/kimseyoung/Desktop/Study/C/13.4FunctionsOfTextFileInOut.c || cmake_object_order_depends_target_13.4FunctionsOfTextFileInOut
+  DEP_FILE = CMakeFiles/13.4FunctionsOfTextFileInOut.dir/13.4FunctionsOfTextFileInOut.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/13.4FunctionsOfTextFileInOut.dir
+  OBJECT_FILE_DIR = CMakeFiles/13.4FunctionsOfTextFileInOut.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13.4FunctionsOfTextFileInOut
+
+
+#############################################
+# Link the executable 13.4FunctionsOfTextFileInOut
+
+build 13.4FunctionsOfTextFileInOut: C_EXECUTABLE_LINKER__13.2e4FunctionsOfTextFileInOut_Debug CMakeFiles/13.4FunctionsOfTextFileInOut.dir/13.4FunctionsOfTextFileInOut.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/13.4FunctionsOfTextFileInOut.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13.4FunctionsOfTextFileInOut
+  TARGET_PDB = 13.4FunctionsOfTextFileInOut.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13.5BinaryFileInOut
+
+
+#############################################
+# Order-only phony target for 13.5BinaryFileInOut
+
+build cmake_object_order_depends_target_13.5BinaryFileInOut: phony || CMakeFiles/13.5BinaryFileInOut.dir
+
+build CMakeFiles/13.5BinaryFileInOut.dir/13.5BinaryFileInOut.c.o: C_COMPILER__13.2e5BinaryFileInOut_Debug /Users/kimseyoung/Desktop/Study/C/13.5BinaryFileInOut.c || cmake_object_order_depends_target_13.5BinaryFileInOut
+  DEP_FILE = CMakeFiles/13.5BinaryFileInOut.dir/13.5BinaryFileInOut.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/13.5BinaryFileInOut.dir
+  OBJECT_FILE_DIR = CMakeFiles/13.5BinaryFileInOut.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13.5BinaryFileInOut
+
+
+#############################################
+# Link the executable 13.5BinaryFileInOut
+
+build 13.5BinaryFileInOut: C_EXECUTABLE_LINKER__13.2e5BinaryFileInOut_Debug CMakeFiles/13.5BinaryFileInOut.dir/13.5BinaryFileInOut.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/13.5BinaryFileInOut.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13.5BinaryFileInOut
+  TARGET_PDB = 13.5BinaryFileInOut.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -817,7 +941,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kimseyoung/Desktop/Study/C/cmake-build-debug
 
-build all: phony C main lecture Study StringArray 11.6 11.7 11.8 11.9 11.10 11.11 12.3 12.3LinkageSecond 12.3Duration 12.5 12.3Linkage 12.6 12.8 12.9 12.12RandomNumberCreator 12.12 12.13DynamicMemoryAllocation 12.15
+build all: phony C main lecture Study StringArray 11.6 11.7 11.8 11.9 11.10 11.11 12.3 12.3LinkageSecond 12.3Duration 12.5 12.3Linkage 12.6 12.8 12.9 12.12RandomNumberCreator 12.12 12.13DynamicMemoryAllocation 12.15 12.19MultiThreading 13.3TextEncodingCodepage 13.4FunctionsOfTextFileInOut 13.5BinaryFileInOut
 
 # =============================================================================
 # Built-in targets

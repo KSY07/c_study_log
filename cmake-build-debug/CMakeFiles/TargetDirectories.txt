@@ -21,5 +21,9 @@
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/12.12.dir
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/12.13DynamicMemoryAllocation.dir
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/12.15.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/12.19MultiThreading.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.3TextEncodingCodepage.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.4FunctionsOfTextFileInOut.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.5BinaryFileInOut.dir
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

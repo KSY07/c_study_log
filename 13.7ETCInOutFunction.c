@@ -50,4 +50,6 @@ int main()
 
     // Writing a large amount of data
     // fflush(fp);
+
+    return 0;
 }

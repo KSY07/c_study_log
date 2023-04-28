@@ -907,6 +907,161 @@ build 13.5BinaryFileInOut: C_EXECUTABLE_LINKER__13.2e5BinaryFileInOut_Debug CMak
   TARGET_FILE = 13.5BinaryFileInOut
   TARGET_PDB = 13.5BinaryFileInOut.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 13.6FileRandomAccess
+
+
+#############################################
+# Order-only phony target for 13.6FileRandomAccess
+
+build cmake_object_order_depends_target_13.6FileRandomAccess: phony || CMakeFiles/13.6FileRandomAccess.dir
+
+build CMakeFiles/13.6FileRandomAccess.dir/13.6FileRandomAccess.c.o: C_COMPILER__13.2e6FileRandomAccess_Debug /Users/kimseyoung/Desktop/Study/C/13.6FileRandomAccess.c || cmake_object_order_depends_target_13.6FileRandomAccess
+  DEP_FILE = CMakeFiles/13.6FileRandomAccess.dir/13.6FileRandomAccess.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/13.6FileRandomAccess.dir
+  OBJECT_FILE_DIR = CMakeFiles/13.6FileRandomAccess.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13.6FileRandomAccess
+
+
+#############################################
+# Link the executable 13.6FileRandomAccess
+
+build 13.6FileRandomAccess: C_EXECUTABLE_LINKER__13.2e6FileRandomAccess_Debug CMakeFiles/13.6FileRandomAccess.dir/13.6FileRandomAccess.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/13.6FileRandomAccess.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13.6FileRandomAccess
+  TARGET_PDB = 13.6FileRandomAccess.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13.7ETCInOutFunction
+
+
+#############################################
+# Order-only phony target for 13.7ETCInOutFunction
+
+build cmake_object_order_depends_target_13.7ETCInOutFunction: phony || CMakeFiles/13.7ETCInOutFunction.dir
+
+build CMakeFiles/13.7ETCInOutFunction.dir/13.7ETCInOutFunction.c.o: C_COMPILER__13.2e7ETCInOutFunction_Debug /Users/kimseyoung/Desktop/Study/C/13.7ETCInOutFunction.c || cmake_object_order_depends_target_13.7ETCInOutFunction
+  DEP_FILE = CMakeFiles/13.7ETCInOutFunction.dir/13.7ETCInOutFunction.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/13.7ETCInOutFunction.dir
+  OBJECT_FILE_DIR = CMakeFiles/13.7ETCInOutFunction.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13.7ETCInOutFunction
+
+
+#############################################
+# Link the executable 13.7ETCInOutFunction
+
+build 13.7ETCInOutFunction: C_EXECUTABLE_LINKER__13.2e7ETCInOutFunction_Debug CMakeFiles/13.7ETCInOutFunction.dir/13.7ETCInOutFunction.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/13.7ETCInOutFunction.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13.7ETCInOutFunction
+  TARGET_PDB = 13.7ETCInOutFunction.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13.8ReadTexttoBinary
+
+
+#############################################
+# Order-only phony target for 13.8ReadTexttoBinary
+
+build cmake_object_order_depends_target_13.8ReadTexttoBinary: phony || CMakeFiles/13.8ReadTexttoBinary.dir
+
+build CMakeFiles/13.8ReadTexttoBinary.dir/13.8ReadTexttoBinary.c.o: C_COMPILER__13.2e8ReadTexttoBinary_Debug /Users/kimseyoung/Desktop/Study/C/13.8ReadTexttoBinary.c || cmake_object_order_depends_target_13.8ReadTexttoBinary
+  DEP_FILE = CMakeFiles/13.8ReadTexttoBinary.dir/13.8ReadTexttoBinary.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/13.8ReadTexttoBinary.dir
+  OBJECT_FILE_DIR = CMakeFiles/13.8ReadTexttoBinary.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13.8ReadTexttoBinary
+
+
+#############################################
+# Link the executable 13.8ReadTexttoBinary
+
+build 13.8ReadTexttoBinary: C_EXECUTABLE_LINKER__13.2e8ReadTexttoBinary_Debug CMakeFiles/13.8ReadTexttoBinary.dir/13.8ReadTexttoBinary.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/13.8ReadTexttoBinary.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 13.8ReadTexttoBinary
+  TARGET_PDB = 13.8ReadTexttoBinary.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 14.2BasicUsageOfStruct
+
+
+#############################################
+# Order-only phony target for 14.2BasicUsageOfStruct
+
+build cmake_object_order_depends_target_14.2BasicUsageOfStruct: phony || CMakeFiles/14.2BasicUsageOfStruct.dir
+
+build CMakeFiles/14.2BasicUsageOfStruct.dir/14.2BasicUsageOfStruct.c.o: C_COMPILER__14.2e2BasicUsageOfStruct_Debug /Users/kimseyoung/Desktop/Study/C/14.2BasicUsageOfStruct.c || cmake_object_order_depends_target_14.2BasicUsageOfStruct
+  DEP_FILE = CMakeFiles/14.2BasicUsageOfStruct.dir/14.2BasicUsageOfStruct.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/14.2BasicUsageOfStruct.dir
+  OBJECT_FILE_DIR = CMakeFiles/14.2BasicUsageOfStruct.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 14.2BasicUsageOfStruct
+
+
+#############################################
+# Link the executable 14.2BasicUsageOfStruct
+
+build 14.2BasicUsageOfStruct: C_EXECUTABLE_LINKER__14.2e2BasicUsageOfStruct_Debug CMakeFiles/14.2BasicUsageOfStruct.dir/14.2BasicUsageOfStruct.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/14.2BasicUsageOfStruct.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 14.2BasicUsageOfStruct
+  TARGET_PDB = 14.2BasicUsageOfStruct.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 14.3StructureMemoryAllocation
+
+
+#############################################
+# Order-only phony target for 14.3StructureMemoryAllocation
+
+build cmake_object_order_depends_target_14.3StructureMemoryAllocation: phony || CMakeFiles/14.3StructureMemoryAllocation.dir
+
+build CMakeFiles/14.3StructureMemoryAllocation.dir/14.3StructureMemoryAllocation.c.o: C_COMPILER__14.2e3StructureMemoryAllocation_Debug /Users/kimseyoung/Desktop/Study/C/14.3StructureMemoryAllocation.c || cmake_object_order_depends_target_14.3StructureMemoryAllocation
+  DEP_FILE = CMakeFiles/14.3StructureMemoryAllocation.dir/14.3StructureMemoryAllocation.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/14.3StructureMemoryAllocation.dir
+  OBJECT_FILE_DIR = CMakeFiles/14.3StructureMemoryAllocation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 14.3StructureMemoryAllocation
+
+
+#############################################
+# Link the executable 14.3StructureMemoryAllocation
+
+build 14.3StructureMemoryAllocation: C_EXECUTABLE_LINKER__14.2e3StructureMemoryAllocation_Debug CMakeFiles/14.3StructureMemoryAllocation.dir/14.3StructureMemoryAllocation.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+  OBJECT_DIR = CMakeFiles/14.3StructureMemoryAllocation.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 14.3StructureMemoryAllocation
+  TARGET_PDB = 14.3StructureMemoryAllocation.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -941,7 +1096,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/kimseyoung/Desktop/Study/C/cmake-build-debug
 
-build all: phony C main lecture Study StringArray 11.6 11.7 11.8 11.9 11.10 11.11 12.3 12.3LinkageSecond 12.3Duration 12.5 12.3Linkage 12.6 12.8 12.9 12.12RandomNumberCreator 12.12 12.13DynamicMemoryAllocation 12.15 12.19MultiThreading 13.3TextEncodingCodepage 13.4FunctionsOfTextFileInOut 13.5BinaryFileInOut
+build all: phony C main lecture Study StringArray 11.6 11.7 11.8 11.9 11.10 11.11 12.3 12.3LinkageSecond 12.3Duration 12.5 12.3Linkage 12.6 12.8 12.9 12.12RandomNumberCreator 12.12 12.13DynamicMemoryAllocation 12.15 12.19MultiThreading 13.3TextEncodingCodepage 13.4FunctionsOfTextFileInOut 13.5BinaryFileInOut 13.6FileRandomAccess 13.7ETCInOutFunction 13.8ReadTexttoBinary 14.2BasicUsageOfStruct 14.3StructureMemoryAllocation
 
 # =============================================================================
 # Built-in targets

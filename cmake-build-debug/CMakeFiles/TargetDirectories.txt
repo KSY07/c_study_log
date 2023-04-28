@@ -25,5 +25,10 @@
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.3TextEncodingCodepage.dir
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.4FunctionsOfTextFileInOut.dir
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.5BinaryFileInOut.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.6FileRandomAccess.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.7ETCInOutFunction.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/13.8ReadTexttoBinary.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/14.2BasicUsageOfStruct.dir
+/Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/14.3StructureMemoryAllocation.dir
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/kimseyoung/Desktop/Study/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
